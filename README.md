@@ -6,7 +6,7 @@ A series of GH Text components to extend the in-built versions in grasshopper
 
 ![](Images/Ribbon.png)
 
-![](Images/Canvas.png)
+![](Images/canvas.png)
 
 # Components
 ## Regex
