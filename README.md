@@ -1,13 +1,9 @@
 # GH-Text
 ## Description
 A series of GH Text components to extend the in-built versions in grasshopper
-
-## The ribbon
-
+## The Ribbon
+The cmponents are added to the existing `Sets` tab within the `Text` sub-section
 ![](Images/Ribbon.png)
-
-![](Images/canvas.png)
-
 # Components
 ## Regex
 ![](Images/Rgx.png)
@@ -31,4 +27,9 @@ C - Number of characters required from the left
 `T` - Text to transform
 `C` - Number of characters required from the right
 
+## Example Preview
+![](Images/canvas.png)
+
 ## codebook
+codebook.md -
+
